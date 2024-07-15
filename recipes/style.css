@@ -7,6 +7,10 @@ h1,h2,h3 {
   text-align: center;
 }
 
+h1 {
+  font-family: "Cedarville Cursive", cursive;
+}
+
 img {
   height: 400px;
   width: auto;
@@ -14,5 +18,13 @@ img {
   margin-right: auto;
   align-content: center;
   display: block;
+}
+
+.recipe-box {
+  align-items: center;
+  border: solid black 4px;
+  padding: 20px;
+  border-radius: 20px;
+  width: 800px;
 }
 
